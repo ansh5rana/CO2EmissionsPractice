@@ -1,0 +1,6 @@
+---
+title: "README"
+output: html_document
+---
+
+This is a project by Ansh Rana analyzing the CO2 Emissions of various cars.  THis data set was taken from [Kaggle](https://www.kaggle.com/datasets/debajyotipodder/co2-emission-by-vehicles?select=CO2+Emissions_Canada.csv)
